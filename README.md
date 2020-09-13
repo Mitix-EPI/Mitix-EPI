@@ -9,16 +9,9 @@
   
 ### About me
 
-<p aling="left"><samp>I am a 17 young student developer living in France. Currently at EPITECH school :mortar_board: (2nd year), I am an intern at <a href="https://www.geomatys.com/en/" target="_blank">Geomatys</a> where I develop a mapping application with Ionic framework. Since I started to develop 2 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been playing tennis since I was 12 years ago :tennis:. My love for video games :video_game: has helped me to move into this fied. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the habits human<samp></p>
+<p aling="left"><samp>I am a 17 young student developer living in France. Currently at EPITECH school :mortar_board: (2nd year), I am an intern at <a href="https://www.geomatys.com/en/" target="_blank">Geomatys</a> where I develop a mapping application with Ionic framework. Since I started to develop 2 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been playing tennis since I was 12 years ago :tennis:. My love for video games <img src="https://media.giphy.com/media/l5CKXNfnzek6PbYlpx/giphy.gif" width="20px"/> :video_game: has helped me to move into this fied. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the habits human</samp></p>
 
 ### Languages and Tools:
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
-<p>
- <img align="right" width="49%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
-</p>
--->
 
 <p align="middle">
   <!-- Your languages and tools. Be careful with the alignment. 
