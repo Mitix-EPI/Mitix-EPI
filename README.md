@@ -37,20 +37,18 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="7%" alt="angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
     <img width="7%" alt="reactjs" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
     <img width="7%" alt="wordpress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="64" height="64"/>
-    <br />
-    <img width="7%" alt="android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
     <img width="7%" alt="flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="64" height="64"/>
+    <br />
+    <img width="7%" alt="android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="64" height="64"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="64" height="64"/>
+    <img width="7%" alt="docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
     <br />
     <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="64" height="64"/>
     <img width="7%" alt="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-    <img width="7%" alt="docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-    <br />
-    <img width="7%" alt="vscode" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-    <img width="7%" alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
     <img width="7%" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <br />
 </p>
 
 <details>
