@@ -16,7 +16,6 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-    <img width="60%" align="right" alt="JUAN's github stats" src="https://github-readme-stats.vercel.app/api?username=Mitix-EPI&show_icons=true&hide_border=true&theme=algolia" />
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
