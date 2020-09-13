@@ -1,11 +1,11 @@
 ### Hi there, I'm Alexandre JUAN. A student Developer from France <img src="https://media.giphy.com/media/X7BZYMtnDWxES0oY4I/giphy.gif" width="25px"> ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left">
-<a href="https://www.linkedin.com/in/juan-alexandre"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Mitix-EPI"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.instagram.com/wheel_back_/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23F62192.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
- <a href="https://www.facebook.com/AlexandreJUAN1234/"><img src="https://img.shields.io/badge/facebook-%230861E4.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
- <a href="https://discordapp.com/users/501067187793166365"><img src="https://img.shields.io/badge/discord-%239433FF.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juan-alexandre" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Mitix-EPI" target="_blank"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/wheel_back_/?hl=fr" target="_blank"><img src="https://img.shields.io/badge/instagram-%23F62192.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="https://www.facebook.com/AlexandreJUAN1234/" target="_blank"><img src="https://img.shields.io/badge/facebook-%230861E4.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+ <a href="https://discordapp.com/users/501067187793166365" target="_blank"><img src="https://img.shields.io/badge/discord-%239433FF.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
   
 ### About me
 
