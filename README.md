@@ -17,18 +17,19 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
     <img width="60%" align="right" alt="JUAN's github stats" src="https://github-readme-stats.vercel.app/api?username=Mitix-EPI&show_icons=true&hide_border=true&theme=algolia" />
-  <img width="60%" align="right" alt="JUAN's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitix-EPI&layout=compact&show_icons=true&hide_border=true&theme=algolia" />
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <p align="middle">
-    <img width="7%" alt="javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+    <img width="7%" alt="javascript" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png">
     <img width="7%" alt="html5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     <img width="7%" alt="python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
     <br />
     <img width="7%" alt="typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     <img width="7%" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="64" height="64"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="64"/>
   </p>
    
   <br />
@@ -37,11 +38,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="7%" alt="angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
     <img width="7%" alt="reactjs" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
     <img width="7%" alt="wordpress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="64" height="64"/>
     <br />
     <img width="7%" alt="android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
     <img width="7%" alt="flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
-  </p>
-  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="64" height="64"/>
+    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="64" height="64"/>
+    
   <br />
   
   <p align="middle">
