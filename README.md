@@ -44,12 +44,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="64" height="64"/>
     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="64" height="64"/>
     <br />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="64" height="64"/>
     <img width="7%" alt="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-    <img width="7%" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     <img width="7%" alt="docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
     <br />
     <img width="7%" alt="vscode" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
     <img width="7%" alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
+    <img width="7%" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </p>
 
 <details>
