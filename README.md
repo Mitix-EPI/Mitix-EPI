@@ -24,8 +24,8 @@
     <br />
     <img width="7%" alt="typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
     <img width="7%" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="64" height="64"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="64"/>
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png" alt="c" width="64" height="64"/>
+    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png" alt="cpp" width="64" height="64"/>
     <br />
     <img width="7%" alt="angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
     <img width="7%" alt="reactjs" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
