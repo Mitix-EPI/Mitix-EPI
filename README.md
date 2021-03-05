@@ -10,7 +10,10 @@
   
 ### About me
 
-<p aling="left"><samp>I am a 18 young student developer living in France. Currently at EPITECH school :mortar_board: (2nd year), I worked as an intern at <a href="https://www.geomatys.com/en/" target="_blank">Geomatys</a> where I developped mapping applications during 6 months. Since I started to develop 2 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been playing tennis since I was 12 years ago :tennis:. My love for video games <img src="https://media.giphy.com/media/l5CKXNfnzek6PbYlpx/giphy.gif" width="20px"/> has helped me to move into this fied. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
+<p aling="left"><samp>I am a 18 young student developer living in France. Currently at EPITECH school :mortar_board: (2nd year), I worked as an intern at <a href="https://www.geomatys.com/en/" target="_blank">Geomatys</a> where I developped mapping applications during 6 months. Since I started to develop 3 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been playing tennis since I was 12 years ago :tennis:. My love for video games <img src="https://media.giphy.com/media/l5CKXNfnzek6PbYlpx/giphy.gif" width="20px"/> has helped me to move into this fied. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
+
+### [Epitech All Projects](https://github.com/Mitix-EPI/Epitech-All-Projects) :mortar_board:
+<p aling="left"><samp>I share and update the projects and the documentation of each of my projects on a regular basis.</samp></p>
 
 ### Languages and Tools:
 
