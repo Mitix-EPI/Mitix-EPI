@@ -34,7 +34,6 @@
           <img width="64px" height="64px" alt="electronjs" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"/>
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png" alt="c" width="64px" height="64px"/>
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png" alt="cpp" width="64px" height="64px"/>
-          <img width="64px" height="64px" alt="vuejs" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
           <br />
           <img width="64px" height="64px" alt="angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
           <img width="64px" height="64px" alt="reactjs" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
@@ -43,7 +42,8 @@
           <!-- <br /> -->
           <img width="64" height="64" alt="ionic" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"/>
           <img width="64" height="64" alt="jupyter" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"/>
-          <!-- <br /> -->
+          <img width="64px" height="64px" alt="vuejs" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
+          <br />
           <img width="64px" height="64px" alt="android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
           <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="64" height="64"/>
           <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="64" height="64"/>
@@ -52,6 +52,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="64" height="64"/>
           <img width="64px" height="64px" alt="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
           <img width="64px" height="64px" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+          <br />
           <img width="64px" height="64px" alt="octave" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg">
           <img width="64px" height="64px" alt="php" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
           <img width="64px" height="64px" alt="java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
