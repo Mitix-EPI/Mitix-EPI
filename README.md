@@ -53,7 +53,7 @@
          </p>
   </td>
   <td>
-    <img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"/>
+    <img width="70%" src="./assets/computer-rotate.gif" alt="computer-rotating"/>
   </td>
  </tr>
 </table>
