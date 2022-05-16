@@ -59,21 +59,10 @@
  </tr>
 </table>
 
+| <a href="https://open.spotify.com/user/jenesaispasquoichoisir95?si=ef5bbe8555944c79" targer="_blank"><img height="80" src="./assets/spotify.png" alt="daily-dev"/></a> | <a href="https://daily.dev/" targer="_blank"><img width="200" src="./assets/daily-dev.jpg" alt="daily-dev"/></a> |
+|    :---:     |    :---:    |
+| ![](https://spotify-github-profile.vercel.app/api/view?uid=jenesaispasquoichoisir95&cover_image=true&theme=novatorem&bar_color=07e000&bar_color_cover=true) | <a href="https://app.daily.dev/JuanDev"><img src="./devcard.svg" width="150" alt="Alexandre Juan's Dev Card"/></a> |
 
-<table border="0" style="margin-left: auto;margin-right: auto;">
- <tr>
-    <td><b style="font-size:30px; padding: 10px">🎧 My current spotify</b></td>
-    <td><b style="font-size:30px; padding: 10px; text-align:center;"><a href="https://daily.dev/" targer="_blank"><img width="200" src="./assets/daily-dev.jpg" alt="daily-dev"/></a></b></td>
- </tr>
- <tr>
-    <td style="text-align:center">
-      <iframe frameBorder="0" src="https://spotify-github-profile.vercel.app/api/view?uid=jenesaispasquoichoisir95&cover_image=true&theme=novatorem&bar_color=07e000&bar_color_cover=true.html" title="Spotify"></iframe>
-    </td>
-    <td style="text-align:center">
-      <a href="https://app.daily.dev/JuanDev"><img src="https://github.com/Mitix-EPI/Mitix-EPI/blob/master/devcard.svg" width="150" alt="Alexandre Juan's Dev Card"/></a>
-    </td>
- </tr>
-</table>
 
 <details>
 <summary>📈 My GitHub Stats</summary>
