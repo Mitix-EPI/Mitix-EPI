@@ -51,6 +51,9 @@
           <img width="64px" height="64px" alt="php" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
           <img width="64px" height="64px" alt="java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
           <img width="64px" height="64px" alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+          <img height="64px" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+          <img height="64px" alt="MLFlow" src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png">
+          <img height="64px" width="64px" alt="Gensim" src="assets/gensim.png">
          </p>
   </td>
   <td>
