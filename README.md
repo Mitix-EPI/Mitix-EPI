@@ -1,4 +1,4 @@
-### Hi there, I'm Alexandre JUAN. A data science student from France <img width="25px" height="25px" alt="french flag" src="https://media.giphy.com/media/X7BZYMtnDWxES0oY4I/giphy.gif"> ! <img width="25px" height="25px" alt="hand shake" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+### Hi there, I'm Alexandre JUAN. An  A.I. & data science student from France <img width="25px" height="25px" alt="french flag" src="https://media.giphy.com/media/X7BZYMtnDWxES0oY4I/giphy.gif"> ! <img width="25px" height="25px" alt="hand shake" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-alexandre" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -10,7 +10,7 @@
   
 ### About me
 
-<p aling="left"><samp>I am a 19 young student developer living in France. Currently 3rd year EPITECH student :mortar_board:, I'm working as Machine Learning Engineer intern at <a href="https://www.inrae.fr/en" target="_blank">INRAe</a>. My job is to create a Machine Learning algorithm using biomedical data (<a href="https://www.nlm.nih.gov/research/umls/index.html" target="_blank">UMLS</a>) to <a href="https://github.com/sifrproject/UMLS-Types-assignor" target="_blank">assign semantic types to onthology concepts</a>.<br/><br/> Since I started to develop 4 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been playing tennis since I was 12 years old :tennis:. My love for video games <img  width="20px" height="20px" alt="controller"  src="https://media.giphy.com/media/l5CKXNfnzek6PbYlpx/giphy.gif"/> has helped me to move into this fied. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
+<p aling="left"><samp>I am a 19 young student developer living in France. Currently 4th year EPITECH student :mortar_board:, I'm studying Artificial Intelligence in Jönköping University in Sweden. My favorite professional experience is when I worked as Machine Learning Engineer intern at <a href="https://www.inrae.fr/en" target="_blank">INRAe</a>. My job was to create a Machine Learning algorithm using biomedical data (<a href="https://www.nlm.nih.gov/research/umls/index.html" target="_blank">UMLS</a>) to <a href="https://github.com/sifrproject/UMLS-Types-assignor" target="_blank">assign semantic types to onthology concepts</a>.<br/><br/> Since I started to develop 5 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been playing tennis since I was 12 years old :tennis:. My love for video games <img  width="20px" height="20px" alt="controller"  src="https://media.giphy.com/media/l5CKXNfnzek6PbYlpx/giphy.gif"/> has helped me to move into this fied. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
 
 ### [Epitech All Projects](https://github.com/Mitix-EPI/Epitech-All-Projects) :mortar_board:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Mitix-EPI&repo=Epitech-All-Projects)](https://github.com/Mitix-EPI/Epitech-All-Projects)
@@ -52,8 +52,11 @@
           <img width="64px" height="64px" alt="java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
           <img width="64px" height="64px" alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
           <img height="64px" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
-          <img height="64px" alt="MLFlow" src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png">
+          <img height="50px" alt="MLFlow" src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png">
           <img height="64px" width="64px" alt="Gensim" src="assets/gensim.png">
+          <img height="64px" alt="KNIME" src="https://miro.medium.com/max/200/1*RaoSiq3YU35qpYBmxpDFfg.png">
+          <img height="64px" alt="Prolog" src="https://cdn.iconscout.com/icon/free/png-256/prolog-458170.png">
+          <img height="64px" alt="Semantic Web" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/94px-Logo_Semantic_Web.svg.png">
          </p>
   </td>
   <td>
