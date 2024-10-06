@@ -10,11 +10,7 @@
   
 ### About me
 
-<p aling="left"><samp>I am a 21yo young student developer living in France. Currently 5th year EPITECH student :mortar_board:, I study Artificial Intelligence. I am working as Deep-Learning Engineer at <a href="https://www.netheos.com/en" target="_blank">Netheos</a>.<br/><br/> Since I started to develop 6 years ago, I always enjoy learning new things/technologies/tricks :grinning:. I have been playing tennis since I was 12 years old :tennis:. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
-
-### [Epitech All Projects](https://github.com/Mitix-EPI/Epitech-All-Projects) :mortar_board:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Mitix-EPI&repo=Epitech-All-Projects)](https://github.com/Mitix-EPI/Epitech-All-Projects)
-<p aling="left"><samp>I share and update the projects and the documentation of each of my projects on a regular basis.</samp></p>
+<p aling="left"><samp>I am a 21yo young DL enjoyer living in France. Currently Deep Learning Engineer at Namirial France :mortar_board:, I continuously study Artificial Intelligence.<br/><br/> I always enjoy learning new things/technologies/tricks :grinning:. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
 
 ### Languages and Tools:
 
@@ -38,13 +34,11 @@
           <img width="64px" height="64px" alt="wordpress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
           <img width="64px" height="64px" alt="flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
           <img width="64" height="64" alt="ionic" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg"/>
-          <img width="64" height="64" alt="jupyter" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"/>
           <img width="64px" height="64px" alt="vuejs" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
           <img width="64px" height="64px" alt="android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
           <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="64" height="64"/>
           <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="64" height="64"/>
           <img width="64px" height="64px" alt="docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="64" height="64"/>
           <img width="64px" height="64px" alt="mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
           <img width="64px" height="64px" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
           <img width="64px" height="64px" alt="octave" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg">
@@ -53,10 +47,9 @@
           <img width="64px" height="64px" alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
           <img height="64px" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
           <img height="50px" alt="MLFlow" src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png">
-          <img height="64px" width="64px" alt="Gensim" src="assets/gensim.png">
           <img height="64px" alt="KNIME" src="https://miro.medium.com/max/200/1*RaoSiq3YU35qpYBmxpDFfg.png">
-          <img height="64px" alt="Prolog" src="https://cdn.iconscout.com/icon/free/png-256/prolog-458170.png">
-          <img height="64px" alt="Semantic Web" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/94px-Logo_Semantic_Web.svg.png">
+          <img height="64px" alt="ONNX" src="https://www.vectorlogo.zone/logos/onnxai/onnxai-ar21.svg">
+          <img height="64px" alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
          </p>
   </td>
   <td>
