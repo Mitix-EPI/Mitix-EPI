@@ -7,7 +7,7 @@
   
 ### About me
 
-<p aling="left"><samp>I am a 21yo young DL enjoyer living in France. Currently Deep Learning Engineer at Namirial France :mortar_board:, I continuously study Artificial Intelligence.<br/><br/> I always enjoy learning new things/technologies/tricks :grinning:. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
+<p aling="left"><samp>I am a 22yo young Data Scientist living in France. Currently Data Scientist at Namirial France :mortar_board:, I continuously study Artificial Intelligence.<br/><br/> I always enjoy learning new things/technologies/tricks :grinning:. Programming is for me a therapy. Like, any kind of ideas or just wishes can be realized thanks to engineering and developing technologies. I wish to contribute one day to a project which will improve the human habits.</samp></p>
 
 ### Languages and Tools:
 
